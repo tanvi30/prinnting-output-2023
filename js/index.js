@@ -37,7 +37,7 @@ a < b : ${a < b}
 let first_name = "Tanvi";
 
 // Declare the variable last_name and assign it with the value of your last name;
-let last_name = "last_name";
+let last_name = "Gera";
 
 // Declare the variable last_name and assign it with the value of your last name;
 let email = "tanvigera3004@gmail.com";
